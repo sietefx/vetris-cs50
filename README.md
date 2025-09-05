@@ -24,7 +24,7 @@
 
 ## About The Project
 
-Vetris is a modern, responsive web application developed as a final project for Harvard's CS50 course. Built on the Base44 platform, it represents a comprehensive solution for pet health management, designed to help pet owners organize, track, and manage all aspects of their beloved companions' health information in one centralized, secure location.
+Vetris is a modern, responsive web application developed as a final project for Harvard's CS50 course. It represents a comprehensive solution for pet health management, designed to help pet owners organize, track, and manage all aspects of their beloved companions' health information in one centralized, secure location.
 
 The application addresses a common challenge faced by pet owners worldwide: the fragmentation of pet health data across various sources such as veterinary clinics, physical documents, email records, and different service providers. This scattered approach to health information management can lead to missed vaccinations, forgotten appointments, incomplete medical histories during emergencies, and overall anxiety about whether pets are receiving optimal care.
 
